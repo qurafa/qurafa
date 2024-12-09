@@ -1,0 +1,24 @@
+{
+  "Projects": [
+    {
+      "name": "XR Multiplayer",
+      "group": "XR Development",
+      "thumbnail": {
+        "image": "",
+        "description": ""
+      },
+      "demo": {
+        "source": "https://youtu.be/I8S_UmN1R5s",
+        "description": ""
+      },
+      "goal": "",
+      "tools": ["Unity3D/C#", "OpenXR", "AR Foundation", "Meta Quest", "Magic Leap 2", "Normcore"],
+      "description": ["A multiplayer XR environment, designed to allow multiple users interact with themselves and their environment. This project was designed to facilitate in investigating how users interact within Shared Mixed Reality Environments where upon analysing the data from users carrying out a task, we can isolate and see how different types of immersion affects the users.", "Modelled after a real location and designed to allow users calibrate their virtual environment to the corresponding real location, providing an extra layer of immersion and interactability. Integrated Augmented Reality capabilities, to allow users in VR and AR work to complete different collaborative tasks."],
+      "images": [],
+      "link": "https://github.com/qurafa/VRMultiplayerRoom-Normcore-OVR"
+      
+    },
+    {
+    }
+  ]
+}
